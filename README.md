@@ -61,7 +61,7 @@ React provides better control over DOM updates and rendering when displaying lar
 
 ### Backend
 
-- FastAPI or Node.js
+- FlaskAPI
 - REST API
 - SQLAlchemy for database ORM operations
 - `pdfplumber` for transcript PDF parsing
